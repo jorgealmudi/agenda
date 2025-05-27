@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ana",
+    "lastName": "García López",
+    "phone": "+34 612 345 678",
+    "email": "ana.garcia@email.com",
+    "company": "Apple Inc."
+  },
+  {
+    "id": 2,
+    "firstName": "Carlos",
+    "lastName": "Rodríguez",
+    "phone": "+34 698 765 432",
+    "email": "carlos.rodriguez@email.com",
+    "company": "Google"
+  },
+  {
+    "id": 3,
+    "firstName": "María",
+    "lastName": "Fernández",
+    "phone": "+34 655 123 789",
+    "email": "maria.fernandez@email.com",
+    "company": "Microsoft"
+  },
+  {
+    "id": 4,
+    "firstName": "David",
+    "lastName": "Martínez",
+    "phone": "+34 677 890 123",
+    "email": "david.martinez@email.com",
+    "company": "Meta"
+  },
+  {
+    "id": 5,
+    "firstName": "Laura",
+    "lastName": "Sánchez",
+    "phone": "+34 633 456 789",
+    "email": "laura.sanchez@email.com",
+    "company": "Amazon"
+  }
+]
