@@ -3,7 +3,7 @@ Esta es una aplicación web de gestión de contactos que simula la interfaz de u
 
 ## Tecnologías Utilizadas
 
-HTML (index.html) → Define la estructura principal de la aplicación. Contiene todos los elementos visuales como el encabezado, barra de búsqueda, lista de contactos, y modales (ventanas emergentes) para agregar o visualizar detalles.
+![ HTML](https://img.shields.io/badge/-HTML-%23ff7800?style=flat&labelColor=%23ffbe6f&logo=HTML5) → Define la estructura principal de la aplicación. Contiene todos los elementos visuales como el encabezado, barra de búsqueda, lista de contactos, y modales (ventanas emergentes) para agregar o visualizar detalles. 
 CSS (contacts_css.css) → Estiliza la interfaz para que se vea como una aplicación móvil. Incluye diseño de botones, listas, tipografía, colores y modales. También se implementan efectos como hover y animaciones.
 JavaScript (contacts_js.js) → Se encarga de la lógica funcional: cargar contactos desde un archivo JSON, manejar eventos como clics en botones, búsqueda de contactos, edición, borrado y guardado de nuevos contactos.
 JSON (contacts.json) → Contiene los datos de los contactos almacenados. Es una representación estructurada que se puede leer fácilmente desde JavaScript.
