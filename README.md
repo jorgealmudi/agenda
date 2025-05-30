@@ -1,0 +1,18 @@
+# Agenda
+Esta es una aplicación web de gestión de contactos que simula la interfaz de una agenda de contactos en un teléfono móvil moderno. Permite buscar, visualizar, añadir, editar y eliminar contactos, todo con una interfaz muy sencilla de usar.
+
+## Tecnologías Utilizadas
+
+HTML (index.html) → Define la estructura principal de la aplicación. Contiene todos los elementos visuales como el encabezado, barra de búsqueda, lista de contactos, y modales (ventanas emergentes) para agregar o visualizar detalles.
+CSS (contacts_css.css) → Estiliza la interfaz para que se vea como una aplicación móvil. Incluye diseño de botones, listas, tipografía, colores y modales. También se implementan efectos como hover y animaciones.
+JavaScript (contacts_js.js) → Se encarga de la lógica funcional: cargar contactos desde un archivo JSON, manejar eventos como clics en botones, búsqueda de contactos, edición, borrado y guardado de nuevos contactos.
+JSON (contacts.json) → Contiene los datos de los contactos almacenados. Es una representación estructurada que se puede leer fácilmente desde JavaScript.
+
+## Funcionalidades
+- Lista de Contactos: Muestra todos los contactos agrupados alfabéticamente.
+- Buscar Contacto: Permite filtrar contactos escribiendo en la barra de búsqueda.
+- Añadir Contacto: Muestra un formulario para ingresar un nuevo contacto.
+- Editar Contacto: Permite modificar los datos de un contacto existente.
+- Eliminar Contacto: Opción para borrar un contacto.
+- Índice Alfabético: Permite desplazarse rápidamente por la lista de contactos por letra.
+- Ver Detalle: Muestra la información completa de un contacto seleccionado.
