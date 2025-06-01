@@ -16,3 +16,6 @@ Esta es una aplicación web de gestión de contactos que simula la interfaz de u
 - Eliminar Contacto: Opción para borrar un contacto.
 - Índice Alfabético: Permite desplazarse rápidamente por la lista de contactos por letra.
 - Ver Detalle: Muestra la información completa de un contacto seleccionado.
+
+## Dificultades
+No se ha podido acabar de enlazar bien con la base de datos de Firebase
